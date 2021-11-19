@@ -7,7 +7,7 @@
 
 ## 📕 Sobre
 
-O projeto *asp-net-sales-system* é um sistema .Net que foi criado em sala de aula na disciplina de Laboratório de Banco de Dados, sendo destinado para a administração e gerenciamento de vendas de comércios, pois dispõe de funcionalidades para cadastrar produtos, clientes, funcionários, fornecedores, além de fazer um controle de vendas. Foi desenvolvido no modelo MVC e foi utilizado o MySql para gerenciar o banco de dados. A funcionalidade agregada recentemente foi a de reestauração de senha, que pode ser acionada pelo usuário a qualquer momento, caso tenha esquecido a senha de login, dessa forma será enviado a senha cadastrada no e-mail do usuário. 
+Este projeto  é um sistema para desktop desenvolvido em Windows Forms, sendo destinado para a administração e gerenciamento de vendas de comércios, pois dispõe de funcionalidades para cadastrar produtos, clientes, funcionários, fornecedores, além de fazer um controle de vendas. Foi desenvolvido no modelo MVC e foi utilizado o MySql para gerenciar o banco de dados. A funcionalidade agregada recentemente foi a de reestauração de senha, que pode ser acionada pelo usuário a qualquer momento, caso tenha esquecido a senha de login, dessa forma será enviado a senha cadastrada no e-mail do usuário. 
 
 
 ##  🚀 Tecnologias utilizadas
